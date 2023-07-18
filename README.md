@@ -1,2 +1,2 @@
 # legume
-A TUI-Only Lemmy Client
+Bullt with Python and Textual.
