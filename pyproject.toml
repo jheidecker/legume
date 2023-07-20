@@ -6,8 +6,9 @@ authors = ["Jay Heidecker <jay.heidecker@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.12"
 textual = "^0.30.0"
+requests = "^2.31.0"
 
 
 [build-system]
